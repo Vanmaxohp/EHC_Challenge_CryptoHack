@@ -1,9 +1,11 @@
-<img width="676" alt="image" src="https://github.com/Vanmaxohp/EHC_Training_CryptoHack/assets/90485791/3157628b-73a2-419b-a6fe-a9f36d890bb1">
+<img width="684" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/a26d9856-ee65-4506-9597-4c8c28e9e3b9">
+
 
 Tải file `great_snakes.py` về sau đó chạy bằng IDE của python sẽ nhận được flag: `crypto{z3n_0f_pyth0n}`
 
-<img width="147" alt="image" src="https://github.com/Vanmaxohp/EHC_Training_CryptoHack/assets/90485791/cbbfb456-9c0a-465f-bb5c-ef389d02e39b">
+<img width="118" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/9f016ba6-b859-4a9f-8801-36f055d842eb">
 
 
 
-![image](https://github.com/Vanmaxohp/EHC_Training_CryptoHack/assets/90485791/ba1fa308-c172-4b94-8880-9bf0a94012f1)
+![Uploading image.png…]()
+
