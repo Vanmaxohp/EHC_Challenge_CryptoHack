@@ -14,7 +14,8 @@ print(flag)
 Chạy chương trình vừa viết, thu được flag: `b'crypto/Base+64+Encoding+is+Web+Safe/'`
 
 <img width="249" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/2b60e22f-882e-448a-bd71-4dd2f72433e9">
-![image](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/89bd3892-6553-4f48-b45c-c94ecc49d809)
 
 
 
+
+![WIN_20240218_14_53_59_Pro](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/76c494c6-0532-4421-8cfc-97f6966edc79)
