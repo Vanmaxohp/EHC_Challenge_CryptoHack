@@ -163,5 +163,3 @@ Chạy bằng lệnh `python3 pwntools_example.py`
 Thu được flag: `crypto{3nc0d3_d3c0d3_3nc0d3}`
 <img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/7f2576b0-5977-4a66-96cc-ae4d3ab637ba">
 
-
-![image](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/530d55e8-fb6e-4d8f-b830-5cba9edc9dc1)
