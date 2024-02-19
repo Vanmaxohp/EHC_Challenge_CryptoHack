@@ -1,4 +1,4 @@
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/6ca59795-36c7-4e11-91d9-fc3c9a26ad5d"><img width="683" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/b01ef020-fc3d-4053-b906-6eb42b6e3092">
+<img width="683" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/b01ef020-fc3d-4053-b906-6eb42b6e3092">
 
 Đề bài cho ta một dãy hex với gợi ý rằng, flag đã được xor với một byte duy nhất để ra dãy hex này.
 Do đó ta sẽ phải xor dãy hex trên với lần lượt các số có kích thước 1 byte (1 đến 16) để tìm ra flag.
