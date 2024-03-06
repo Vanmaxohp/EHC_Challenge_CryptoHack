@@ -1,7 +1,7 @@
 <img width="802" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/4c188cfc-8eb7-4c40-91e8-d4803dbe30b0">
 
 Đề bài cho ta biết cách mà AES hoạt động. Yêu cầu lần này là chuyển một ma trận về lại plaintext ban đầu, ta chỉ cần chuyển đổi theo ascii từng phần tử của ma trận là xong:
-Code python:
+Sửa code python đề bài đã cho:
 ```
 #!/usr/bin/env python3
 
