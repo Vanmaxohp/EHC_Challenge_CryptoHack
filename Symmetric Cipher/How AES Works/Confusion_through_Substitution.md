@@ -60,3 +60,7 @@ def sub_bytes(s, sbox=s_box):
 
 print (sub_bytes(state, sbox=inv_s_box))
 ```
+
+Thu được flag: `crypto{l1n34rly}`
+
+<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/f760fdba-0be9-4966-a33b-07fbf2119455">
