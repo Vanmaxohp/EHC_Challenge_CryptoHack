@@ -59,7 +59,7 @@ state = [
 ]
 
 
-
+#Do thứ tự khi mã hoá là shift_rows trước, giờ đảo ngược thứ tự lại
 inv_mix_columns(state)
 inv_shift_rows(state)
 for i in range(4):
