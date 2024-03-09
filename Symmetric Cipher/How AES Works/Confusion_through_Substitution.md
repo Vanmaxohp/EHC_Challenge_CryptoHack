@@ -58,5 +58,5 @@ def sub_bytes(s, sbox=s_box):
         for j in range(4):
             print(chr(sbox[s[i][j]]), end = "")
 
-print( sub_bytes(state, sbox=inv_s_box))
+print (sub_bytes(state, sbox=inv_s_box))
 ```
