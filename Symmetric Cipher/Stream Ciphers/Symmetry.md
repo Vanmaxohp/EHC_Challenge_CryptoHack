@@ -72,6 +72,9 @@ cipher = cipher[32:]
 flag = bytes.fromhex(send(cipher, iv)["ciphertext"])
 print (flag)
 ```
+Thu được flag: `crypto{0fb_15_5ymm37r1c4l_!!!11!}`
 
 
-![Uploading image.png…]()
+
+![image](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/8321d9a8-0e86-489a-8ad8-b94dc54fe051)
+
