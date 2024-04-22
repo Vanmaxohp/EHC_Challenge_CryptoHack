@@ -68,5 +68,4 @@ while flag[-1:] != '}':
             break
 ```
 
-![image](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/d6ccc260-39b9-4102-8a76-231386ba2d0e)
 
