@@ -1,7 +1,6 @@
 <img width="738" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/e38bb997-049e-4952-808d-30ab2756f74f">
 
 Đề bài cho một flag được mã hoá thành một dãy hex, theo hướng dẫn của đề bài, ta viết chương trình python để giải mã:
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/e5a79f49-83d1-4f4b-9c5f-e94adf6a0db8">
 
 ```
 #!/usr/bin/env python3
