@@ -22,10 +22,10 @@ c = int(input('c = '))
 x = powMod(a, b, c)
 print ("x = {}".format(x))
 ```
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/81aba22c-8565-4373-917f-e00aab2a5dee">
+
 
 Chạy thử chương trình, nhâp vào các số theo đề bài hướng dẫn:
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/95ff64f3-d724-448d-8721-42da0f4690e4">
+
 
 Dễ thấy: a ** p mod p = a và a ** (p - 1) mod p = 1
 Xem thêm: [Định lý nhỏ Fermat](https://vi.wikipedia.org/wiki/Định_lý_nhỏ_Fermat)
