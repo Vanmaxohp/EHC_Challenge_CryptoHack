@@ -21,4 +21,4 @@ print(long_to_bytes(plain))
 ```
 Flag: `crypto{0n3_pr1m3_41n7_pr1m3_l0l}`
 
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/b19593b8-6d21-42b4-b76a-51432e4a51c1">
+
