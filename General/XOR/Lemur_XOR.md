@@ -26,6 +26,6 @@ plain.save('plain.png')
 
 
 Chạy file python vừa viết, thu được ảnh:
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/562ff683-aff8-49c1-a996-aa2fbdfe09d3">
+
 
 flag là `crypto{X0Rly_n0t!}`
