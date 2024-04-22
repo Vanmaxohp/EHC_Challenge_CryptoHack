@@ -14,9 +14,4 @@ a = int(input("a = "))
 b = int(input("b = "))
 print("GCD = ", gcd(a, b))
 ```
-
-
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/74c93f5a-7f83-406c-beb8-adb6ee0ca000">
 Chạy chương trình:
-
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/44452732-90d3-4a95-887e-d6d968f5822a">
