@@ -6,5 +6,3 @@ print (a)
 ```
 
 Kết quả: `19906`
-
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/c629c3b7-9303-43e3-80d5-4985ad751363">
