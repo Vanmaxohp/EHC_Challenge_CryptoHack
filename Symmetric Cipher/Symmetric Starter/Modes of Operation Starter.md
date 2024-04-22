@@ -10,4 +10,3 @@ Vì đề bài đã cho sẵn phần code để decrypt, ta sử dụng luôn v�
 Dán đoạn hex này vào tool chuyển thành text, ta có flag:
 `crypto{bl0ck_c1ph3r5_4r3_f457_!}`
 
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/beb3b9ed-7c1b-4a58-9d2f-5850faa5e129">
