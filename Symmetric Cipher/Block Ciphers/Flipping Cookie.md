@@ -89,5 +89,4 @@ print (send(cipher[32:], iv1))
 ```
 Nhận được flag: `crypto{4u7h3n71c4710n_15_3553n714l}`
 
-![image](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/e3e89d44-6900-415f-b075-05f7a4d46980)
 
