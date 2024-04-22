@@ -9,7 +9,3 @@ print("".join(chr(o) for o in a))
 ```
 Chay chương trình vừa viết, ta thu được flag: `crypto{ASCII_pr1nt4bl3}`
 <img width="244" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/2f981fd9-40ec-4d26-bf22-9c96fd7b8e97">
-
-
-![Uploading image.png…]()
-
