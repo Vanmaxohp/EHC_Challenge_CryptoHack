@@ -79,4 +79,3 @@ if len(keystream) == 16:
 Sau đó mở file flag.png lên là có flag: `crypto{hex_bytes_beans}`
 ![flag](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/c2416182-4e4a-4dae-b58e-1323b9f493fd)
 
-![image](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/43731eee-b2a9-4af1-9e72-22754244a831)
