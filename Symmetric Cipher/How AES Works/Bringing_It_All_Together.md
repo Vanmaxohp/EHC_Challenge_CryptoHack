@@ -190,4 +190,3 @@ print(decrypt(key, ciphertext))
 Thu được flag: `crypto{MYAES128}`
 
 
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/b08a85b6-6a55-474b-8843-20a53b5daa6d">
