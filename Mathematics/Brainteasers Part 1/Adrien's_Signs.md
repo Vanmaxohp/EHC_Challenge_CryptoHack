@@ -75,4 +75,4 @@ print(long_to_bytes(int(res, 2)))       #Chuyen tu so nguyen thanh byte
 ```
 Chạy chương trình vừa viết, thu được flag: `crypto{p4tterns_1n_re5idu3s}`
 
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/b9669d9b-6b66-4f4f-a602-261bede16dd3">
+
