@@ -1,7 +1,7 @@
 <img width="705" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/913fd7dd-b100-444e-bf30-8262394738df">
 
 Theo hướng dẫn của đề bài, ta viết chương trình python để giải:
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/0022c38a-d080-4bd6-8087-c746c8739542">
+
 
 ```
 !/usr/bin/env python3
