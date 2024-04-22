@@ -1,4 +1,3 @@
-![image](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/81d2a4cd-7717-4e99-9318-db80d9b263ed)<img width="725" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/8b869231-84ae-4613-a4db-fc166da545a9">
 <img width="718" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/8ad8c072-db9a-4eff-a448-aa9f6e4067dc">
 
 Đề bài lần này giải thích cho ta sau hơn về byte sub, cùng yêu cầu sử dụng các phần tử trong state đối chiếu với bảng inverse S-box để có được flag.
