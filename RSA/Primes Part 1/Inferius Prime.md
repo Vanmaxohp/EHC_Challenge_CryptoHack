@@ -56,5 +56,5 @@ plain = pow(ct,d,n)
 print(long_to_bytes(plain))
 ```
 Flag: `crypto{N33d_b1g_pR1m35}`
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/0030d518-770b-4cf5-b61e-d23c8912301e">
+>
 
