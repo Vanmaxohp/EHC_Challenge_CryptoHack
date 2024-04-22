@@ -33,4 +33,4 @@ for i in range (3):
 print (x % Mod)
 ```
 Chạy chương trình vừa viết, thu được kết quả: `872`
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/7892f005-4745-41a4-b0d2-78e89867fc33">
+
