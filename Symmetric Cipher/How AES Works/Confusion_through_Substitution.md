@@ -65,5 +65,4 @@ print (sub_bytes(state, sbox=inv_s_box))
 
 Thu được flag: `crypto{l1n34rly}`
 
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/aa04a046-7cee-467e-b40b-3c9d64bbbcca">
 
