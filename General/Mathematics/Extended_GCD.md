@@ -19,10 +19,9 @@ print ("gcd = {}".format(gcd))
 print ("x = {}".format(x))
 print ("y = {}".format(y))
 ```
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/a66d029d-2b09-4d7f-a380-eea129ba7247">
 
 Chạy đoạn code vừa viết, thu được hai số đề bài yêu cầu:
 x = 10245
 y = -8404
 Nhập số nhỏ hơn là `-8404` theo yêu cầu
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/98703feb-9177-47ad-ae79-fc6657ba50f8">
+
