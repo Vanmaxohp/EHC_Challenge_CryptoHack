@@ -19,4 +19,3 @@ print(xor(enc, key))
 
 Chạy đoạn code vừa viết, thu được flag: `crypto{1f_y0u_Kn0w_En0uGH_y0u_Kn0w_1t_4ll}`
 
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/6ffc0d19-312f-409d-810f-c7bd502d7fbd">
