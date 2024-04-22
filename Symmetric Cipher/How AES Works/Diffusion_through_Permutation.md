@@ -69,4 +69,3 @@ print ("\n")
 ```
 Flag: `crypto{d1ffUs3R}`
 
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/15594e3b-050c-429f-bde4-6cf5b2ad98e7">
