@@ -17,4 +17,4 @@ for i in range(1, p):
 print(min(root))
 ```
 Chạy chương trình vừa viết, thu được số cần tìm theo đề bài: `8`
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/a4a1b23e-c493-4fbb-9cea-5983648d4781">
+
