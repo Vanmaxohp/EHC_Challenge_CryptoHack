@@ -15,7 +15,3 @@ Chạy file python vừa sửa
 
 Ta có được flag: `crypto{sh0pp1ng_f0r_fl4g5}`
 
-
-
-![image](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/4493a879-b8af-43ad-88b8-401f24a4dfc8)
-
