@@ -39,4 +39,3 @@ print(matrix2bytes(add_round_key(state, round_key)))
 
 Chạy chương trình, thu được flag: `crypto{r0undk3y}`
 
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/1ef53116-52e2-4359-b341-a60945194f2f">
