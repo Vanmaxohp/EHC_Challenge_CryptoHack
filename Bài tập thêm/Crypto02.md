@@ -58,4 +58,3 @@ print(plain)
 ```
 Thu được flag: `EHC{3xc1u51v3_0r_15_n07_53cur3_3n0u9h!}`
 
-![image](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/319bc093-ff6a-499c-a71c-36ab3b62f8b8)
