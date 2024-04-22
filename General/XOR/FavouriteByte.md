@@ -11,7 +11,7 @@ for i in range(17):
         flag = [c ^ i for c in cipher]
         print("".join(chr(o) for o in flag)); print("\n")
 ```
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/2359655b-5121-42b4-a83f-3230b0530e6c">
+
 
 Chạy code vừa viết, thu được flag: `crypto{0x10_15_my_f4v0ur173_by7e}`
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/58d6721f-8b7b-4451-a7e6-3f0a2a61ca1f">
+
