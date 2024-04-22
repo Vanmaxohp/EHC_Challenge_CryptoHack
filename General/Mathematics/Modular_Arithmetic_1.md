@@ -12,10 +12,10 @@ print ("x = {}".format(x))
 print ("y = {}".format(y))
 ```
 
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/c3540537-4183-4062-9eff-00eba27a9175">
+
 
 Chạy code, ta được kết quả:
 x = 5
 y = 4
 Đề bài yếu cầu nhập số bé hơn, nhập `4`.
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/72f02b56-5517-4f91-803e-c458a4cf422d">
+
