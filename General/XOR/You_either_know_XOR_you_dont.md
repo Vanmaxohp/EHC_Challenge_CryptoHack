@@ -15,7 +15,6 @@ key = xor(enc[:7], 'crypto{') + xor(enc[-1], '}')
 print(xor(enc, key))
 ```
 
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/85c1bdec-6a30-4a8c-80c3-f08dcbe026d5">
 
 Chạy đoạn code vừa viết, thu được flag: `crypto{1f_y0u_Kn0w_En0uGH_y0u_Kn0w_1t_4ll}`
 
