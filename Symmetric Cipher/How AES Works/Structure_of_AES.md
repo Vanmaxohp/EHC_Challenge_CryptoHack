@@ -28,5 +28,3 @@ print(matrix2bytes(matrix))
 ```
 
 Chạy chương trình vừa viết, thu được flag: `crypto{inmatrix}`
-
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/ba25290c-0174-4779-b8ef-f86740567c8f">
