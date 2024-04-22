@@ -31,5 +31,3 @@ for x in ct:
 print(long_to_bytes(int(res, 2)))       #Chuyen tu so nguyen thanh byte
 ```
 Chạy chươnhg trình thu được flag: `EHC{50_y0u_kn0w_4b0u7_qu4dr471c_r351du3}`
-
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/b7b4e6ed-d75d-403c-b3a5-39ef7cdac501">
