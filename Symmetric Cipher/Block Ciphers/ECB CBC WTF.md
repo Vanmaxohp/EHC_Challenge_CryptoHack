@@ -70,5 +70,3 @@ plain_block0 = xor(decrypt(cipher_block0), iv)
 plain_block1 = xor(decrypt(cipher_block1), cipher_block1)
 print(plain_block0 + plain_block1)
 ```
-
-![image](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/1fe71d34-f661-40dd-ade8-be1511d005c4)
