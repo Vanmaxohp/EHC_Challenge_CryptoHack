@@ -85,4 +85,3 @@ for i in range(l):
 Chạy chương trình vừa viết, thu được flag:
 `crypto{k3y5__r__n07__p455w0rdz?}`
 
-![image](https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/5cc4fd2a-c103-40c9-b7aa-6f7ccea0a8e5)
