@@ -26,8 +26,8 @@ kc = bytes.fromhex("04ee9855208a2cd59091d04767ae47963170d1660df7f56f5faf")
 flag = [a ^ b ^ c for a, b, c in zip(ka, kb, kc)]
 print("".join(chr(o) for o in flag))
 ```
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/c5d63d97-52c7-400d-975d-46fe5936e6b6">
+
 
 Chạy code python ta thu dc flag: `crypto{x0r_i5_ass0c1at1v3}`
 
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/600622ee-bc35-4128-adc4-ffbebda11307">
+
