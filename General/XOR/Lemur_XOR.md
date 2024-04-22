@@ -4,7 +4,7 @@
 
 Vì cả hai đều được xor với cùng một key, nên nếu ta xor 2 ảnh này với nhau thì key sẽ biến mất và ta sẽ thu được tấm ảnh ẩn.
 Trước hết, ta sẽ tải 2 ảnh về máy:
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/b832de4b-f774-487c-93cc-4ed8a1b710f0">
+
 
 
 Viết chương trình python để thực hiện:
@@ -23,7 +23,7 @@ plain = Image.frombytes(flag.mode, flag.size, plain_b)
 
 plain.save('plain.png')
 ```
-<img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/bf53fabf-73e0-43a2-ab38-5378ec873cd1">
+
 
 Chạy file python vừa viết, thu được ảnh:
 <img width="960" alt="image" src="https://github.com/Vanmaxohp/EHC_Challenge_CryptoHack/assets/90485791/562ff683-aff8-49c1-a996-aa2fbdfe09d3">
